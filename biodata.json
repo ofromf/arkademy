@@ -1,0 +1,24 @@
+{
+  "name" : "Andi Sulkifli Pardi",
+  "address" : "Afe'e RT02 RW02 Kel.Bulu-Bulu Kec.Tonra Kab.Bone",
+  "hobbies" : ["footbal", "gaming", "UIUX Design", "Logo Design"],
+  "is_married" : false,
+  "school" : {
+    "highSchool" : "SMA N 1 Tonra",
+    "university" : "Politeknik Negeri Ujung Pandang"
+  },
+  "skills" : [
+    {
+      "name" : "Adobe Xd",
+      "score" : 80
+    },
+    {
+      "name" : "Adobe Photoshop",
+      "score" : 80
+    },
+    {
+      "name" : "Adobe Illustrator",
+      "score" : 80
+    }
+  ]
+}
